@@ -6,8 +6,8 @@ GitHub  is a provider of Internet hosting for software development and version c
 # Installation
 Before you start using Git, you have to make it available on your computer. Even if it’s already installed, it’s probably a good idea to update to the latest version. You can either install it as a package or via another installer, or download the source code and compile it yourself.
 
-For download and installation go to the Git official website (https:git-scm.com)
-For GitHub just create an account in the GitHub website (https:github.com)
+For download and installation go to the Git official website (https://git-scm.com)
+For GitHub just create an account in the GitHub website (https://github.com)
 
 # Configuration
 
@@ -22,6 +22,7 @@ set the default branch for all your repos
 git config --global init.defaultbranch main
 
 # GitHub Settings
-To generate a new ssh key, I type the following command and complete:
+To generate a new ssh key type the following command and complete:
 ssh-keygen -t ed25519 -C "your-github-email@example"
+
  
